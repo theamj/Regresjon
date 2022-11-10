@@ -7,5 +7,6 @@ verdi = input("Oppgi koordinat til punkt B:")
 b = float(verdi)
 verdi = input("Oppgi koordinat til punkt C:")
 c = float(verdi)
- 
+
+
 print(f(a,b,c))
